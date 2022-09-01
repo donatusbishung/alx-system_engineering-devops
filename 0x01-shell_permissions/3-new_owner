@@ -1,2 +1,2 @@
 #!/bin/bash
-set rstchown = betty
+chown betty hello
